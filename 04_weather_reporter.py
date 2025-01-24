@@ -1,4 +1,4 @@
-    # Built-in API request by city name from OpenWheather
+    # Built-in API request by city name from OpenWeather
 
 import requests
 from secrets import OpenWeather
