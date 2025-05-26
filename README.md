@@ -8,3 +8,4 @@ The list of projects is as follows:
   2. A quiz game that questions your knowledge of the capitals of the world (data is pulled from an open API URL)
   3. My own version of a hangman game - an animals' version (data is collected through web scraping using BeautifulSoup)
   4. A current weather reporter (data is from OpenWeather using API keys)
+  5. A comprehensive Exploratory Data Analysis using Pandas to understand, clean and prepare the dataset
